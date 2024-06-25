@@ -292,3 +292,111 @@
 2024-06-25 16:48:45,638 [main] INFO BDDCucumberProjectInEclipsce - looging out
 2024-06-25 16:48:49,834 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
 2024-06-25 16:48:49,837 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 16:50:54,488 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:50:54,499 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:50:55,655 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:51:00,561 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:00,566 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:51:04,876 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:04,882 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 16:51:07,798 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:51:07,799 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:51:09,060 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:51:14,222 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:14,225 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:51:19,174 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:19,179 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 16:51:22,043 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:51:22,044 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:51:22,568 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:51:27,434 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:27,439 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:51:31,594 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:51:31,599 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 16:53:51,338 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:53:51,350 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:53:52,585 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:53:57,040 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:53:57,046 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:54:02,563 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:54:02,569 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 16:54:05,590 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:54:05,591 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:54:06,794 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:54:12,069 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:54:12,074 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:54:15,314 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 16:54:15,317 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 16:54:16,005 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 16:54:21,305 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:54:21,307 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 16:54:25,590 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 16:54:25,597 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:01:12,492 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:01:12,504 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:01:13,681 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:01:21,614 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:01:21,616 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:02:30,291 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:02:30,314 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:02:31,492 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:02:35,808 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:02:35,814 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:02:39,934 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:02:39,942 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:02:42,868 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:02:42,869 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:02:43,405 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:02:47,653 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:02:47,657 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:02:51,946 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:02:51,952 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:02:54,820 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:02:54,821 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:02:55,355 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:02:59,689 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:02:59,694 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:03:04,019 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:03:04,024 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:05:48,933 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:05:48,946 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:05:50,205 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:05:55,178 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:05:55,182 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:05:59,538 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:05:59,544 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:06:02,213 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:06:02,214 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:06:03,467 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:06:08,478 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:06:08,482 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:06:12,680 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:06:12,686 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:06:15,346 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:06:15,347 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:06:15,955 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:06:20,163 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:06:20,165 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:06:24,531 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:06:24,535 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:08:25,887 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:08:25,903 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:08:27,982 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:08:31,092 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:31,098 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:08:34,163 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:34,170 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:08:35,359 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:08:35,360 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:08:36,945 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:08:40,023 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:40,029 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:08:43,092 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:43,101 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
+2024-06-25 17:08:44,204 [main] INFO BDDCucumberProjectInEclipsce - launching browser
+2024-06-25 17:08:44,205 [main] INFO BDDCucumberProjectInEclipsce - entering url
+2024-06-25 17:08:45,171 [main] INFO BDDCucumberProjectInEclipsce - logging in
+2024-06-25 17:08:48,253 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:48,260 [main] INFO BDDCucumberProjectInEclipsce - looging out
+2024-06-25 17:08:51,346 [main] INFO BDDCucumberProjectInEclipsce - asserting the tittle
+2024-06-25 17:08:51,354 [main] INFO BDDCucumberProjectInEclipsce - closing the browser
